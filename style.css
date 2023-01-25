@@ -40,6 +40,17 @@ body {
   box-shadow: 0 0 5px #00000020;
 }
 
+.divider {
+  height: 1px;
+  border-top: 1px solid #FFFFFF25;
+  border-radius: 1px;
+  margin: 20px 0px;
+  width: auto;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
 .appinfo {
   margin: 10px 0;
   padding: 20px;
